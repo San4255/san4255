@@ -19,7 +19,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me sansaxena0@gmail.com
 
-     <img width="15px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1754812-1490132.png"></a>
+- <img width="15px" src="https://cdn.iconscout.com/icon/free/png-64/telegram-1754812-1490132.png"></a>
 https://t.me/Risan4255
 - ⚡ Fun fact I am Funny
 
